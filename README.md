@@ -1,0 +1,2 @@
+# bancodedados
+script- tables diagrama
